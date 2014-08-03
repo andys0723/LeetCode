@@ -10,6 +10,15 @@ package Candy;
  *  Each child must have at least one candy
  *  Children with a higher rating get more candies than their neighbors
  *  
+ *  Solution : User scans two times.
+ *             One scan is from left. The other scan is from right.
+ *             Each child is promised to have a candy.
+ *             If current rating is greater then previous rating,
+ *             candy is given to current child.
+ *             if current rating is less then previous rating,
+ *             candy is not given to current children.
+ *             if current rating is equal to previous,
+ *             candy is not given to current children
  */
 
 public class Candy {
