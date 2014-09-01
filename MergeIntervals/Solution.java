@@ -10,7 +10,7 @@ package MergeIntervals;
  *            Intersection happens if ending position of one interval is greater then 
  *            starting position of the other position. In addition, 
  *            to easy merge interval, list of interval needs to be ordered 
- *            by interval's starting position.
+ *            by interval's starting position. Use technology is Comparator interface.
  *  
  */
 import java.util.ArrayList;
