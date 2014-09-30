@@ -14,3 +14,4 @@ http://www.cs.umss.edu.bo/doc/material/mat_gral_137/M.Fowler%20et%20al%20-%20Ref
 http://www.laliluna.de/jpa-hibernate-guide/ch02.html#_the_three_states_of_objects
 http://java-success.blogspot.com/2012/09/understanding-hibernate-proxy-objects.html
 https://www.udemy.com/blog/conflict-management-styles/
+https://www.themuse.com/advice/how-to-knock-your-next-interview-out-of-the-park
