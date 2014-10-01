@@ -15,3 +15,4 @@ http://www.laliluna.de/jpa-hibernate-guide/ch02.html#_the_three_states_of_object
 http://java-success.blogspot.com/2012/09/understanding-hibernate-proxy-objects.html
 https://www.udemy.com/blog/conflict-management-styles/
 https://www.themuse.com/advice/how-to-knock-your-next-interview-out-of-the-park
+http://www.java2blog.com/2013/02/hibernate-inheritancetable-per-class.html
