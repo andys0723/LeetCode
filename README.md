@@ -16,3 +16,4 @@ http://java-success.blogspot.com/2012/09/understanding-hibernate-proxy-objects.h
 https://www.udemy.com/blog/conflict-management-styles/
 https://www.themuse.com/advice/how-to-knock-your-next-interview-out-of-the-park
 http://www.java2blog.com/2013/02/hibernate-inheritancetable-per-class.html
+http://www.java2blog.com/2013/02/hibernate-inheritancetable-per-concrete.html
