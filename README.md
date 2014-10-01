@@ -17,3 +17,4 @@ https://www.udemy.com/blog/conflict-management-styles/
 https://www.themuse.com/advice/how-to-knock-your-next-interview-out-of-the-park
 http://www.java2blog.com/2013/02/hibernate-inheritancetable-per-class.html
 http://www.java2blog.com/2013/02/hibernate-inheritancetable-per-concrete.html
+http://www.linkedin.com/groups/What-is-difference-between-merge-4183182.S.101844747
