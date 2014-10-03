@@ -20,3 +20,4 @@ http://www.java2blog.com/2013/02/hibernate-inheritancetable-per-concrete.html
 http://www.linkedin.com/groups/What-is-difference-between-merge-4183182.S.101844747
 https://sharepoint.sandiego.edu/hr/Employment/CompetencyInterview.pdf
 http://collaboration.csc.ncsu.edu/laurie/Papers/ESEM11_SCRUM_Experience_CameraReady.pdf
+http://www.hanklondon.com/tough%20interview%20questions.html#question52
