@@ -22,3 +22,4 @@ https://sharepoint.sandiego.edu/hr/Employment/CompetencyInterview.pdf
 http://collaboration.csc.ncsu.edu/laurie/Papers/ESEM11_SCRUM_Experience_CameraReady.pdf
 http://www.hanklondon.com/tough%20interview%20questions.html#question52
 http://www.mysqltutorial.org/mysql-create-drop-database.aspx
+http://www.geeksengine.com/database/design/data-integrity.php
