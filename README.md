@@ -23,3 +23,4 @@ http://collaboration.csc.ncsu.edu/laurie/Papers/ESEM11_SCRUM_Experience_CameraRe
 http://www.hanklondon.com/tough%20interview%20questions.html#question52
 http://www.mysqltutorial.org/mysql-create-drop-database.aspx
 http://www.geeksengine.com/database/design/data-integrity.php
+http://andiamopartners.com/S-OOD.pdf
