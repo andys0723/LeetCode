@@ -24,4 +24,5 @@ http://www.hanklondon.com/tough%20interview%20questions.html#question52
 http://www.mysqltutorial.org/mysql-create-drop-database.aspx
 http://www.geeksengine.com/database/design/data-integrity.php
 http://andiamopartners.com/S-OOD.pdf
+http://www.studytrails.com/frameworks/spring/spring-hibernate-jpa.jsp
 http://rest.elkstein.org/2008/02/how-simple-is-rest.html
