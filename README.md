@@ -33,3 +33,4 @@ http://rest.elkstein.org/2008/02/how-simple-is-rest.html
 http://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/http://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/
 http://hangar.herokuapp.com/javascript
 http://tech.pro/blog/1402/five-patterns-to-help-you-tame-asynchronous-javascript
+http://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/
