@@ -24,6 +24,7 @@ http://www.hanklondon.com/tough%20interview%20questions.html#question52
 http://www.mysqltutorial.org/mysql-create-drop-database.aspx
 http://www.geeksengine.com/database/design/data-integrity.php
 http://andiamopartners.com/S-OOD.pdf
+Async JavaScript: Build More Responsive Apps with Less Code pdf
 http://ejohn.org/blog/how-javascript-timers-work/
 http://www.hiddenwebgenius.com/blog/guides/understanding-javascripts-asynchronous-code/
 http://www.studytrails.com/frameworks/spring/spring-hibernate-jpa.jsp
