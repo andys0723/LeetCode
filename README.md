@@ -36,3 +36,4 @@ http://tech.pro/blog/1402/five-patterns-to-help-you-tame-asynchronous-javascript
 http://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/
 http://speakingjs.com/es5/ch15.html
 http://www.toptal.com/javascript/javascript-prototypes-scopes-and-performance-what-you-need-to-know
+http://www.chinastor.org/upload/2014-04/14042114559900.pdf
