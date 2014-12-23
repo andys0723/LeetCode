@@ -42,3 +42,4 @@ http://www.chinastor.org/upload/2014-04/14042114559900.pdf
 https://robot.bolink.org/ebooks/Interactive%20Data%20Visualization%20For%20The%20Web.pdf(3djs)
 http://gisciencegroup.ucalgary.ca/engo500/texts/Interactive_Data_Visualization_for_the_Web.pdf(3djs)
 http://techslides.com/creating-and-exporting-svg-graphics-with-json-and-d3
+http://www.objectmentor.com/resources/articles/dip.pdf
