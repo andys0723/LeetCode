@@ -46,3 +46,4 @@ http://www.objectmentor.com/resources/articles/dip.pdf
 http://www.javacodegeeks.com/2014/05/spring-interview-questions-and-answers.html#1
 
 http://www.java2blog.com/2012/08/introduction-to-spring-framework.html
+http://viralpatel.net/blogs/hibernate-one-to-one-mapping-tutorial-using-annotation/
