@@ -48,3 +48,4 @@ http://www.javacodegeeks.com/2014/05/spring-interview-questions-and-answers.html
 http://www.java2blog.com/2012/08/introduction-to-spring-framework.html
 http://viralpatel.net/blogs/hibernate-one-to-one-mapping-tutorial-using-annotation/
 http://en.wikibooks.org/wiki/Java_Persistence/Persisting#Detached_vs_Managed
+http://www.techonthenet.com/oracle/index.php
