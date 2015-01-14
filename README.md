@@ -50,3 +50,4 @@ http://viralpatel.net/blogs/hibernate-one-to-one-mapping-tutorial-using-annotati
 http://en.wikibooks.org/wiki/Java_Persistence/Persisting#Detached_vs_Managed
 http://www.techonthenet.com/oracle/index.php
 http://www.ibm.com/developerworks/library/x-twitterREST/
+http://www.cs.berkeley.edu/~satishr/cs270/sp11/index.html
