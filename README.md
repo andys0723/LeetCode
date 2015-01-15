@@ -51,3 +51,4 @@ http://en.wikibooks.org/wiki/Java_Persistence/Persisting#Detached_vs_Managed
 http://www.techonthenet.com/oracle/index.php
 http://www.ibm.com/developerworks/library/x-twitterREST/
 http://www.cs.berkeley.edu/~satishr/cs270/sp11/index.html
+http://ptgmedia.pearsoncmg.com/images/9780321905758/samplepages/032190575X.pdf
