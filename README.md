@@ -57,3 +57,4 @@ http://balusc.blogspot.com/2006/09/debug-jsf-lifecycle.html#AddImmediateTrueToUI
 http://www.itpa.lt/~acus/Knygos/Donald.E.Knuth%20-%20The%20Art%20of%20Computer%20Programming%20I-III,%20Concrete%20Mathematics,%20The%20Tex%20Book/Addison.Wesley.Donald.E.Knuth.The.Art.of.Computer.Programming.Volume.2.pdf
 http://www.cs.umd.edu/class/fall2011/cmsc858s/SuffixArrays.pdf
 http://www.ics.uci.edu/~eppstein/161/960215.html
+http://courses.csail.mit.edu/6.006/fall09/lecture_notes/lecture05.pdf
