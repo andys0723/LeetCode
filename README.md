@@ -58,3 +58,4 @@ http://www.itpa.lt/~acus/Knygos/Donald.E.Knuth%20-%20The%20Art%20of%20Computer%2
 http://www.cs.umd.edu/class/fall2011/cmsc858s/SuffixArrays.pdf
 http://www.ics.uci.edu/~eppstein/161/960215.html
 http://courses.csail.mit.edu/6.006/fall09/lecture_notes/lecture05.pdf
+http://www.javabeat.net/create-spring-beans-using-factory-methods/
