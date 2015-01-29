@@ -64,3 +64,4 @@ http://courses.cs.vt.edu/~cs3114/Fall09/wmcquain/Notes/
 http://www.ardendertat.com/2012/06/15/programming-interview-questions-28-longest-compound-word/
 http://www.rssreader.com/
 http://www.fas.harvard.edu/~libcs124/CS/lec22.pdf
+http://www.martinkysel.com/codility-tape-equilibrium-solution/
