@@ -66,3 +66,4 @@ http://www.rssreader.com/
 http://www.fas.harvard.edu/~libcs124/CS/lec22.pdf
 http://www.martinkysel.com/codility-tape-equilibrium-solution/
 http://rafal.io/posts/skyline.html
+http://codercareer.blogspot.com/search?updated-max=2014-08-09T23:11:00%2B08:00&max-results=7
