@@ -68,3 +68,4 @@ http://www.martinkysel.com/codility-tape-equilibrium-solution/
 http://rafal.io/posts/skyline.html
 http://codercareer.blogspot.com/search?updated-max=2014-08-09T23:11:00%2B08:00&max-results=7
 http://pdf.th7.cn/down/files/1312/coding_interviews.pdf?yundunkey=12e92d7b4972fd3fbaef3e180f0ac42861423513148_42424855
+http://www.baeldung.com/mockito-spy
