@@ -70,3 +70,4 @@ http://codercareer.blogspot.com/search?updated-max=2014-08-09T23:11:00%2B08:00&m
 http://pdf.th7.cn/down/files/1312/coding_interviews.pdf?yundunkey=12e92d7b4972fd3fbaef3e180f0ac42861423513148_42424855
 http://www.baeldung.com/mockito-spy
 http://cseweb.ucsd.edu/~elkan/255/dm.pdf
+http://cseweb.ucsd.edu/~jmcauley/cse255/slides/lecture6_text.pdf
