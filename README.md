@@ -72,3 +72,4 @@ http://www.baeldung.com/mockito-spy
 http://cseweb.ucsd.edu/~elkan/255/dm.pdf
 http://cseweb.ucsd.edu/~jmcauley/cse255/slides/lecture6_text.pdf
 http://www.rmki.kfki.hu/~banmi/elte/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf
+http://www.ieee.org.ar/downloads/srivastava-tut-pres.pdf
