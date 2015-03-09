@@ -74,3 +74,4 @@ http://cseweb.ucsd.edu/~jmcauley/cse255/slides/lecture6_text.pdf
 http://www.rmki.kfki.hu/~banmi/elte/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf
 http://www.ieee.org.ar/downloads/srivastava-tut-pres.pdf
 https://cwiki.apache.org/confluence/display/solr/Field+Type+Definitions+and+Properties
+http://stackoverflow.com/questions/4091441/how-do-i-index-and-search-text-files-in-lucene-3-0-2
