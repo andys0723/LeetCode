@@ -78,3 +78,4 @@ http://stackoverflow.com/questions/4091441/how-do-i-index-and-search-text-files-
 http://www.tutorialspoint.com/tika/tika_overview.htm
 http://oak.cs.ucla.edu/cs144/projects/lucene/
 http://lingpipe-blog.com/2014/03/08/lucene-4-essentials-for-text-search-and-indexing/
+http://codecanyon.net/item/smooth-zoom-pan-jquery-image-viewer/511142
