@@ -79,3 +79,4 @@ http://www.tutorialspoint.com/tika/tika_overview.htm
 http://oak.cs.ucla.edu/cs144/projects/lucene/
 http://lingpipe-blog.com/2014/03/08/lucene-4-essentials-for-text-search-and-indexing/
 http://codecanyon.net/item/smooth-zoom-pan-jquery-image-viewer/511142
+http://www.petercollingridge.co.uk/interactive-svg-components/pan-and-zoom-control
