@@ -84,3 +84,4 @@ http://stackoverflow.com/questions/730620/how-does-a-hash-table-work
 http://beust.com/algorithms.pdf
 http://mathworld.wolfram.com/Equivalent.html
 http://www.d3noob.org/2014/02/styles-in-d3js.html
+http://wcc723.github.io/d3js/2014/10/02/Ironman-30-days-03/
