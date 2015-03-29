@@ -83,3 +83,4 @@ http://www.petercollingridge.co.uk/interactive-svg-components/pan-and-zoom-contr
 http://stackoverflow.com/questions/730620/how-does-a-hash-table-work
 http://beust.com/algorithms.pdf
 http://mathworld.wolfram.com/Equivalent.html
+http://www.d3noob.org/2014/02/styles-in-d3js.html
