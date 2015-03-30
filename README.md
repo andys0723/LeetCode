@@ -85,3 +85,4 @@ http://beust.com/algorithms.pdf
 http://mathworld.wolfram.com/Equivalent.html
 http://www.d3noob.org/2014/02/styles-in-d3js.html
 http://wcc723.github.io/d3js/2014/10/02/Ironman-30-days-03/
+http://knowledgestockpile.blogspot.com/2011/12/drawing-straight-line-with-d3js.html
